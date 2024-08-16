@@ -20,7 +20,7 @@ If you don't have a Grass account, follow these steps to create one:
 Make sure you have Python 3 installed on your system. If not, you can install it using:
 
 ```bash
-apt install python3 python3-pip
+apt install python3
 ```
 
 ### 2. Clone the Repository
