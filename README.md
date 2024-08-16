@@ -28,7 +28,7 @@ apt install python3
 Clone the Grasscok repository from GitHub:
 
 ```bash
-git clone https://github.com/jamikoas/grass-bot.git
+git clone https://github.com/jamikoas/grass-bot.git](https://github.com/ashev33/grasscok.git
 ```
 
 Navigate into the cloned repository:
