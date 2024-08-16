@@ -1,4 +1,3 @@
-```markdown
 # Grasscok: Grass Bot Auto Mining Bulk Account
 
 ## Donate and Support
