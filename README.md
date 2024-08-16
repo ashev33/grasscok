@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please contact the repository owner.
-```
+For any questions or support, please contact the repository owner:
 
-Anda bisa menyalin seluruh teks di atas dan menyimpannya dalam file bernama `README.md`. File ini akan memberikan panduan yang jelas tentang bagaimana menginstal, mengonfigurasi, dan menjalankan proyek Grasscok.
+- [Telegram: @zesos](https://t.me/zesos)
+
